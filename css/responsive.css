@@ -1,0 +1,432 @@
+@media (max-width: 767.98px){
+
+    .nav_back .navbar-toggler{
+        margin-left: auto;
+    }
+    .nav_back .navbar-toggler i{
+        color: #a43a3a !important;
+    }
+    .navbar-brand {
+	height: 36px;
+	position:static;
+	z-index: 3333;
+	width: auto;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+	:root {
+	 --black-blue-light:none
+    }
+	.nav_back ul{
+		margin-top:40px;
+	}
+	.nav_back ul li{
+        padding: 0 6px;
+        width: 100%;
+        text-align: center;
+        transition: all .5s
+	}
+    .nav_back ul li a:hover{
+        background: #f05050;
+    }
+	.nav_back ul li a{
+		color: black !important;
+        font-weight: bold;
+        font-family: 'Aboreto', cursive;
+        cursor: pointer;
+	}
+	.drop_mail {
+        position: absolute;
+        top: 60%;
+        right: 3%;
+        z-index: 100000;
+    }
+      .video_text h2 {
+        font-size: 35px;
+    }
+    .video_text h2 {
+        font-size: 29px !important;;
+    }
+    .cd-headline {
+        font-size: 3rem !important;;
+        line-height: 1.2;
+        text-align: center;
+        margin-left: -16px;
+    }
+    .banner_text {
+        padding-left: 10px;
+    }
+    #about .about_text h3, h4, p {
+        padding-left: 10px;
+    }
+	.bac_img {
+        margin-top: 20px;
+    }
+    .but_img .but_png1 {
+        display: none;
+    }
+    .but_img .but_png {
+        position: absolute;
+        bottom: -37px;
+        right: -205px;
+        width: 100%;
+    }
+    .but_img .but_png img{
+        width: 80%
+    }
+    #resume .png2,
+    #resume .png3,
+    #about .png1,
+    #about .png {
+        display: none;
+    }
+    .about_text .shap4 i {
+        right: 25%;
+    }
+    .about_text .shap3 i {
+        left: 25%;
+    }
+    .about_text .shap2 i, 
+    .about_text .shap i{
+        display: none;
+    }
+    .progress_inn i {
+        display: none;
+    }
+    .experience .expe_head h3 {
+        padding-top: 38px;
+    }
+   .progess_item .down1{
+    margin-top: 30px;
+   }
+   #about .section-title .ligh-title {
+	top: 55%;
+	font-size: 65px;
+	font-weight: 500;
+}
+   #resume .section-title .ligh-title {
+	top: 55%;
+	font-size: 80px;
+	font-weight: 600;
+}
+#details .section-title .ligh-title {
+	top: 47%;
+	font-size: 29px;
+	font-weight: 500;
+}
+#service .section-title h2 {
+	font-size: 30px;
+    margin-top: 46px;
+}
+#service .section-title {
+	margin: -60px 0;
+}
+#service .section-title .ligh-title {
+	top: 56%;
+	font-size: 29px;
+	font-weight: 500;
+}
+#service  .down2{
+    margin-bottom: 20px;
+}
+#project .section-title {
+	margin: -60px 0;
+}
+#project .section-title h2 {
+	font-size: 30px;
+    margin-top: 46px;
+}
+#project .section-title .ligh-title {
+	top: 55%;
+	font-size: 41px;
+	font-weight: 500;
+}
+#foter .foter_head_inn h2 {
+	font-size: 20px;
+	font-weight: 400;
+}
+#foter .Contact h2 {
+	font-size: 20px;
+	padding-top: 90px;
+}
+#foter .Contact .cont_inn {
+	padding:0;
+}
+#foter .Contact .cube_item {
+	display: none;
+}
+#details {
+	padding:0
+}
+#service {
+    padding:0
+}
+.progress_inn {
+	box-shadow: 1px 1px 9px 1px #ff000094;
+	margin: 0 15px;
+}
+    .pro_1{
+        margin-bottom: -30px
+    }
+#resume .re_left .re_inn {
+	margin: 40px 6px 0;
+}
+#resume .section-title h2 {
+	padding: 0;
+	line-height: 25px;
+}
+#details .deta_text {
+	font-size: 16px;
+}
+    .exp_1{
+        margin-top: 20px;
+    }
+    .ser_item{
+        margin: 0 10px
+    }
+    .foter_wave {
+        height: 32px;
+        margin-top: -5px;
+    }
+    @keyframes wavez{
+        0%{
+            transform: translateX(-1px);
+            width: 100%
+        }
+        100%{
+            transform: translateX(60px);
+            width: 100%
+        }
+    }
+    #foter .massage .button {
+        margin-left: 85px;
+    }
+    #foter {
+        padding: 35px 0;
+    }
+	#foter .massage h2 {
+        padding-left: 20px;
+    }
+	
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    .nav_back .navbar-toggler{
+        margin-left: auto;
+    }
+    .nav_back .navbar-toggler i{
+        color: #a43a3a !important;
+    }
+    .navbar-brand {
+	height: 36px;
+	position:static;
+	z-index: 3333;
+	width: auto;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+	:root {
+	 --black-blue-light:none
+    }
+	.nav_back ul{
+		margin-top:40px;
+	}
+	.nav_back ul li{
+        padding: 0 6px;
+        width: 100%;
+        text-align: center;
+        transition: all .5s
+	}
+    .nav_back ul li a:hover{
+        background: #f05050;
+    }
+	.nav_back ul li a{
+		color: black !important;
+        font-weight: bold;
+        font-family: 'Aboreto', cursive;
+        cursor: pointer;
+	}
+	.drop_mail {
+        position: absolute;
+        top: 60%;
+        right: 3%;
+        z-index: 100000;
+    }
+    .video_text h2 {
+        font-size: 55px;
+    }
+    .cd-intro {
+        text-align: center;
+    }
+    .cd-headline {
+        font-size: 5rem;
+        line-height: 1.2;
+    }
+   #banner .bac_img {
+        margin-top: 40px;
+    }
+    #resume .png2,
+    #resume .png3,
+    #about .png1,
+    #about .png {
+        display: none !important;
+    }
+    #about .section-title .ligh-title {
+        margin: 0px auto;
+        font-size: 95px;
+        font-weight: 600;
+    }
+    #about .section-title h2 {
+        padding:24px 0;
+        font-size: 36px;
+        line-height:normal;
+    }
+    .about_text .shap2 i {
+        left: -10%;
+    }
+    .progress_inn i {
+        display: none;
+    }
+    .sp_about_info ul li {
+        padding-left: 10px;
+    }
+    #resume .section-title .ligh-title {
+        font-size: 80px;
+        font-weight: 600;
+    }
+    #details .section-title .ligh-title {
+        font-size: 80px;
+        font-weight: 600;
+        margin-top: 30px;
+    }
+    #details .section-title h2 {
+        padding: 80px 0 45px;
+        line-height: 0px;
+    }
+    #service .section-title .ligh-title {
+        font-size: 80px;
+        font-weight: 600;
+        margin-top: 25px;
+    }
+    #service .section-title h2 {
+        padding: 80px 0 45px 0;
+        line-height: 0px;
+    }
+    .down2{
+        margin-bottom: 30px;
+    }
+    #project .section-title .ligh-title {
+        margin: 3px auto;
+        font-size: 70px;
+        font-weight: 600;
+    }
+    #project .section-title h2 {
+        padding:24px 0;
+        font-size: 36px;
+        line-height:normal;
+    }
+    #foter .massage .button {
+        margin: 60px;
+    }
+    .wave{
+        margin-top: 23px;
+    }
+    @keyframes wavez{
+        0%{
+            transform: translateX(-1px);
+            width: 100%
+        }
+        100%{
+            transform: translateX(385px);
+            width: 100%
+        }
+    }
+    .about_text .shap i,
+    .about_text .shap2 i {
+        top: 0;
+        right: -60px;
+        display: none;
+    }
+    .experience .expe_head h3 {
+        padding-top: 30px;
+    }
+    .drop_mail {
+        position: fixed;
+        top: 47%;
+        right: 0%;
+    }
+}
+@media (min-width: 768px) and (max-width: 1199.98px) { 
+    .cd-headline {
+        font-size: 6.4rem;
+        text-align: center;
+        margin-left: -65px;
+    }
+    #about .png,
+#about .png1
+{
+	width: 170px;
+}
+#about .png img,
+#about .png1 img
+{
+	width: 100%
+}
+#about .png {
+	top: -2%;
+}
+#about .png1 {
+	top: -3%;
+}
+#resume .png3,
+#resume .png2 {
+	display: none;
+}
+.progress_inn p {
+	padding: 10px 16px 20px;
+}
+.about_text .shap2 i,
+.progress_inn i {
+	display: none;
+}
+
+.about_text .shap4 i {
+	right: 28%;
+}
+.about_text .shap3 i{
+    left: 28%;
+}
+#project .section-title .ligh-title {
+	font-size: 80px;
+	font-weight: 600;
+}
+#foter .massage .button {
+	margin: 60px;
+}
+    .second{
+        display: none  
+    }
+    .Contact .cube, .Contact .cube1 {
+        margin: 0 auto;
+    }
+    @keyframes wavez{
+        0%{
+            transform: translateX(-1px);
+            width: 100%
+        }
+        100%{
+            transform: translateX(535px);
+            width: 100%
+        }
+    }
+    #foter .massage h2 {
+        padding-left: 20px;
+    }
+
+
+
+ }
