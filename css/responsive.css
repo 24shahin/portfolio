@@ -1,7 +1,10 @@
 @media (max-width: 767.98px){
-
+    .nav_back {
+    height: 45px
+}
     .nav_back .navbar-toggler{
         margin-left: auto;
+        border: none
     }
     .nav_back .navbar-toggler i{
         color: #a43a3a !important;
@@ -18,9 +21,15 @@
 	:root {
 	 --black-blue-light:none
     }
-	.nav_back ul{
-		margin-top:40px;
-	}
+    .navbar-toggler:focus {
+	   box-shadow:none
+    }
+    .navbar-toggler i{
+       width: 2.3em;
+       height: 2.3em;
+	   background-color: #069191;
+        line-height: 2.9rem
+}
 	.nav_back ul li{
         padding: 0 6px;
         width: 100%;
