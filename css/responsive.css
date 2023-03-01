@@ -1,6 +1,7 @@
 @media (max-width: 767.98px){
     .nav_back {
-    height: 45px
+    height: 45px;
+    width: 100vw;
 }
     .nav_back .navbar-toggler{
         margin-left: auto;
