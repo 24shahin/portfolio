@@ -2,6 +2,7 @@
     .nav_back {
     height: 45px;
     width: 100%;
+    overflow-x: hidden;
 }
     .nav_back .navbar-toggler{
         margin-left: auto;
